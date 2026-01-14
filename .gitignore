@@ -13,7 +13,7 @@ Icon
 .VolumeIcon.icns
 
 # VS Code
-.vscode/
+#.vscode/
 .history/
 
 # Visual Studio / .NET
